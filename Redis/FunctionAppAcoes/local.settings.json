@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "KafkaConnection": "CONEXÃO APACHE KAFKA",
+    "BaseAcoesRedis": "CONEXÃO SQL SERVER",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
